@@ -1,0 +1,14 @@
+{
+  "name": "bml",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/L-Chris/bml",
+  "author": "L-Chris <563303226@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
